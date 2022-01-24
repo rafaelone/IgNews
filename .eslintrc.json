@@ -24,6 +24,8 @@
         "prettier"
     ],
     "rules": {
+      "no-case-declarations":"off",
+      "no-restricted-syntax": "off",
       "prettier/prettier": "error",
       "import/no-duplicates": "off",
       "no-unused-expressions": "off",
